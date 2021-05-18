@@ -162,6 +162,9 @@ sup {
   top: -0.5em;
 }
 
+.btn-primary{
+  color : #484be6
+}
 a {
   color: #484be6;
   text-decoration: none;
@@ -10089,7 +10092,9 @@ p.lead {
 .dev-icons {
   font-size: 3rem;
 }
-
+img {
+  max-height: 400px;
+}
 section.resume-section {
   display: flex;
   align-items: center;
